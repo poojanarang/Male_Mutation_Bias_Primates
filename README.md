@@ -1,10 +1,11 @@
 ## Male Mutation Bias in Primates
-To use the program:
+# To use the program:
 
 —> Sample input file: “hg18.farFromGenes.20kb.nosep.schweinfurthii.bothsexes.reheader”
+
 —> The input file should have data for all the chromosomes (chr1-22 & chrX)
 
-Data from the sample input file:
+# Sample input file:
 
 chrom   start   stop    cm2genes        	pi      		NumBases        Dist2Root
 chr1    32450   52450   3.98951152150029e-08    0       		1240    11
