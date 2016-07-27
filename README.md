@@ -2,7 +2,6 @@
 # To use the program:
 
 —> Sample input file: “hg18.farFromGenes.20kb.nosep.schweinfurthii.bothsexes.reheader”
-
 —> The input file should have data for all the chromosomes (chr1-22 & chrX)
 
 # Sample input file:
