@@ -34,10 +34,10 @@
 
 ##CI can be calculated in two steps:
 
-1) Generate bootstrap data (the program generates 1000 bootstrap files): **generate_bootstrap.R**	
+1. Generate bootstrap data (the program generates 1000 bootstrap files): **generate_bootstrap.R**	
 	This script creates 1000 bootstrap files for autosomes and 1000 bootstrap files for X chromosome	
 
-2) Calculate confidence intervals: **CalculateMean_CI.R**	 
+2. Calculate confidence intervals: **CalculateMean_CI.R**	 
  	This script calculates the following:	
 	(i)   Mean and 95% confidence intervals for X and autosomal Divergence for each bin 	
 	(ii)  Mean and 95% confidence intervals for X to autosomal divergence ratios, both uncorrected and corrected for ancestral polymorphism, for each bin 	
