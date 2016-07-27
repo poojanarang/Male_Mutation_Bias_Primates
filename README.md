@@ -1,5 +1,5 @@
 # Male Mutation Bias in Primates
-## To use the program:
+## To use the scripts:
 
 	—> Sample input file: “hg18.farFromGenes.20kb.nosep.schweinfurthii.bothsexes.reheader”
 	—> The input file has data for all the chromosomes (chr1-22 & chrX)
@@ -32,7 +32,7 @@
 
 ***************************************************************************************************************************************
 
-##CI can be calculated in two steps:
+##Mean and Confidence Intervals are calculated in two steps:
 
 1. Generate bootstrap data (the program generates 1000 bootstrap files): **generate_bootstrap.R**	
 	This script creates 1000 bootstrap files for autosomes and 1000 bootstrap files for X chromosome	
